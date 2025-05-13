@@ -1,6 +1,6 @@
 # Task-Pragati
 
-A Flutter app that implements infinite scrolling loading indicators, and an enhanced UI.
+A Flutter app that implements infinite scrolling loading indicators and an enhanced UI.
 
 ### Features
 - *Dynamic Theme Switching*: Switch between light and dark modes seamlessly.
