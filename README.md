@@ -17,24 +17,24 @@ Follow these instructions to set up and run the project on your local machine.
 - Install VS Code or Android Studio
 - Enable Developer Mode on your physical device if using wireless debugging
 
-### Clone the Repository
-- bash
-  git clone https://github.com/shubhnesh/Task-Pragati.git
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/shubhnesh/Task-Pragati.git
 
-### Install Dependencies
-- bash
-  pub get
+2. **Install Dependencies**
+   ```bash
+   pub get
 
-### Run the App
-- bash
-  flutter run
+3. **Run the App**
+   ```bash
+   flutter run
 
-### Check if the device is recognized:
-- bash
-  flutter devices
+4. **Check if the device is recognized:**
+   ```bash
+   flutter devices
 
- 
- ### Screenshots
+
+### Screenshots
  -
     <p align="center">
       <img src="https://github.com/shubhnesh/Task-Pragati/blob/main/Screenshots/light_mode.jpg" width="250" style="margin-right: 20px">
