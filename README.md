@@ -33,7 +33,6 @@ Follow these instructions to set up and run the project on your local machine.
    ```bash
    flutter devices
 
-
 ### Screenshots
  -
     <p align="center">
