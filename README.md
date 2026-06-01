@@ -9,7 +9,7 @@ A Flutter app that implements infinite scrolling loading indicators, and an enha
 - *Navigation Bar*: A bottom navigation bar with dynamic icon colors based on the selected tab.
 - *Project Slider*: A horizontal image slider showcasing different projects.
 
-### Getting Started 
+### Getting Started
 Follow these instructions to set up and run the project on your local machine.
 
 ### Prerequisites
